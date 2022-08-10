@@ -1,7 +1,7 @@
 <h2>Hello! I'm Jasmini Braga 👋</h2>
 
  <div>
-   <a href="https://github.com/gabrieladaltoe">
+   <a href="https://github.com/jasminibraga" style="display: inline_block"><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jasminibraga&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminibraga&layout=compact&langs_count=7&theme=react"/>
 </div>
